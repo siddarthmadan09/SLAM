@@ -1,7 +1,6 @@
 # LaserSLAM
 SLAM using 2D lidar<br>
-![image](https://github.com/meyiao/LaserSlam/blob/master/museum.png)<br>
-Video(better watching in 1080p): https://v.qq.com/x/page/q0363h0i1ej.html<br>
+
 
 ## Usage
 1. Run the main.m<br>
